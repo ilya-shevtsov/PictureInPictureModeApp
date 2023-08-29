@@ -4,4 +4,4 @@ This is a simple Picture in Picture Mode App. It was written using: PictureInPic
 
 # Demonstration
 
-<img src="REAMMEImages/screen1.png" width="200"> <img src="REAMMEImages/demonstration.gif" width="170">
+<img src="READMEImages/screen1.png" width="200"> <img src="READMEImages/demonstration.gif" width="170">
